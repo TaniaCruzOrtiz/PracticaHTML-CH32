@@ -1,0 +1,16 @@
+#imagen{
+    width: 20cm; height: 10cm;
+}
+body{
+    background-color: lightsalmon;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.imagen1{
+    text-align: center;
+}
+.nombre{
+    text-align: center;
+}
+.biografía{
+    text-align: justify;
+}
