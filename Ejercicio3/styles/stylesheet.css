@@ -1,0 +1,50 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: navy;
+}
+h2{
+    color: royalblue;
+}
+.Whatsapp{
+    background-color: rgb(167, 255, 226);
+    position: relative;
+    text-align: center;
+}
+.Face{
+    background-color: rgb(250, 194, 224);
+    position: relative;
+    text-align: center;
+}
+.Insta{
+    background-color: rgb(248, 255, 146);
+    position: relative;
+    text-align: center;
+}
+.Twitter{
+    background-color: rgb(171, 241, 162);
+    position: relative;
+    text-align: center;
+}
+.Youtube{
+    background-color: rgb(245, 191, 173);
+    position: relative;
+    text-align: center;
+}
+#iconowa{
+    width: 5cm; height: 5cm
+}
+#iconoface{
+    width: 5cm; height: 5cm;
+}
+#iconotw{
+    width: 5cm; height: 5cm;
+}
+#iconoinsta{
+    width: 5cm; height: 5cm;
+}
+#iconoyt{
+    width: 5cm; height: 5cm;
+}
+
